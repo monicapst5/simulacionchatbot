@@ -1,3 +1,4 @@
+# El proyecto ha sido desarrollado como parte del Trabajo de Fin de Grado en Ingeniería Informática de UNIR.
 def mostrar_menu(menu_items):
     while True:
         print("¡Hola! ¿En qué podemos ayudarte?")
